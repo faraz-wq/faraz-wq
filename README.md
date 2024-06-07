@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faraz Pathan</h1>
-<h3 align="center">Programmig Enthusiast</h3>
+<h3 align="center">Programming Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz-wq&label=Profile%20views&color=0e75b6&style=flat" alt="faraz-wq" /> </p>
 
