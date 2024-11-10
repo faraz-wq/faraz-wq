@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Trying to be a better backend engineer<br><br>Currently coding in Go, TypeScript<br><br>👨‍💻 All of my projects are available at https://farazpathan-portfolio.vercel.app/<br><br>💬 Ask me about Fullstack software development, machine learning, low level programming
+🌱 Trying to be a better software engineer<br><br>Currently coding in Go, TypeScript<br><br>👨‍💻 All of my projects are available at https://farazpathan-portfolio.vercel.app/<br><br>💬 Ask me about Fullstack software development, machine learning, low level programming
 
 
 ## 🌐 Socials:
