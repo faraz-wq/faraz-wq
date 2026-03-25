@@ -1,8 +1,9 @@
 <div align="center">
 
-# Faraz Pathan
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C8F065&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Pathsetter+AI;Agentic+Systems+%26+LLM+Infrastructure;RBAC+%7C+CPM+Scheduling+%7C+Ask+Alfred;Building+AI+that+works+in+production.)](https://git.io/typing-svg)
 
-**AI Engineer** — building systems that work in production, not just in demos.
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-faraz--wq.github.io-000000?style=flat-square&logo=github&logoColor=white)](https://faraz-wq.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farazpathan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faraz-wq)
@@ -13,44 +14,15 @@
 
 ---
 
-Currently at **[Pathsetter AI](https://pathsetter.ai)** — architecting the RBAC security layer, a CPM scheduling engine, and **Ask Alfred**, an LLM-powered project management assistant for enterprise construction SaaS.
+<!-- Impact metrics as SVG image cards -->
+<div align="center">
 
-Previously at **TechBharat AI** — shipped government AI for Andhra Pradesh: document validation pipelines (OCR + LLMs) deployed across 26 districts, and a Rulebook Amendment Engine that made legal traceability fully auditable for the first time.
+| | | |
+|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/95%25-Unauthorized_Access_Risk_Eliminated-c8f065?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/90%25-Ops_Update_Time_Reduced-c8f065?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/26-Districts_Deployed-c8f065?style=for-the-badge&labelColor=0d1117) |
+| ![](https://img.shields.io/badge/62→95%25-Doc_Search_Accuracy-c8f065?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/2--4×-GPU_Throughput_Gain-c8f065?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/10--15_min-Saved_Per_Citizen-c8f065?style=for-the-badge&labelColor=0d1117) |
 
----
-
-## What I build
-
-```
-Agentic AI & LLMs    Context engineering · RBAC-scoped agents · document pipelines · LLM inference
-Security & Auth      JWT · org-scoped RBAC · multi-tenant access control across microservices
-Backend & APIs       FastAPI · Django · PostgreSQL · Go · bulk operations at scale
-Data Engineering     PySpark · Kafka · Parquet · AWS S3 · ETL pipelines
-Frontend             React · TypeScript · Next.js · role-based dynamic UI
-```
-
----
-
-## Selected projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| **Agentic Analytics Pipeline** | Python · LLMs · Qwen-3-235B | CLI agent for CSV profiling, DQ checks, LLM-powered policy recommendations |
-| **Smart City IoT Streaming** | Kafka · PySpark · Docker · S3 | Real-time event pipeline for traffic, GPS, and weather sensor data |
-| **Job Bulletin ETL** | PySpark · Athena · Parquet | Structured extraction from unstructured job bulletins at scale |
-| **AI Mock Interview Platform** | Vite · Express · Gemini API | Real-time behavioural analysis with NLP feedback during mock interviews |
-| **Go Video Chat App** | Go · WebRTC · STUN/TURN | Sub-200ms latency video chat supporting 10+ concurrent streams |
-
----
-
-## Production impact
-
-- **`95%`** reduction in unauthorized-access risk — full RBAC overhaul across a multi-tenant SaaS platform
-- **`62% → 95%`** document search accuracy — RBAC-compliant DMS integration in Ask Alfred
-- **`90%`** reduction in ops update time — bulk WBS endpoints (45 min → 4.5 min per 100 items)
-- **`10–15 min`** saved per citizen — AI document validation pipeline at APSDMA
-- **`2–4×`** GPU inference throughput — multithreading optimisation on in-house model servers
-- **`26 districts`** served — state-wide inventory system in production across Andhra Pradesh
+</div>
 
 ---
 
@@ -65,8 +37,8 @@ Frontend             React · TypeScript · Next.js · role-based dynamic UI
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -75,7 +47,7 @@ Frontend             React · TypeScript · Next.js · role-based dynamic UI
 
 ---
 
-## GitHub stats
+## Stats
 
 <div align="center">
 
@@ -103,9 +75,17 @@ Frontend             React · TypeScript · Next.js · role-based dynamic UI
 
 </div>
 
+<!-- Snake contribution graph — add this GitHub Action to generate it: -->
+<!-- https://github.com/Platane/snk -->
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/faraz-wq/faraz-wq/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 
-## Pinned repos
+## Projects
 
 <div align="center">
 
