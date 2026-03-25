@@ -109,15 +109,22 @@ Frontend             React · TypeScript · Next.js · role-based dynamic UI
 
 <div align="center">
 
-[![smart-city-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=smart-city-iot-streaming&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/smart-city-iot-streaming)
-[![job-bulletin-etl](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=unstructured-job-bulletin-processing&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/unstructured-job-bulletin-processing)
+[![agentic_ai_analyst](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=agentic_ai_analyst&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/agentic_ai_analyst)
+[![kafka_smart-city](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=kafka_smart-city&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/kafka_smart-city)
 
 </div>
 
 <div align="center">
 
-[![agentic-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=agentic-ai-analytics-pipeline&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/agentic-ai-analytics-pipeline)
-[![go-video-chat](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=go-video-chat&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/go-video-chat)
+[![inventory-managment](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=inventory-managment&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/inventory-managment)
+[![document_validation](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=document_validation&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/document_validation)
+
+</div>
+
+<div align="center">
+
+[![video-call-app](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=video-call-app&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/video-call-app)
+[![AIInterviewMaster](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=AIInterviewMaster&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/AIInterviewMaster)
 
 </div>
 
