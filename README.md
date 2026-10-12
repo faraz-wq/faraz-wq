@@ -63,47 +63,27 @@
 
 </div>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faraz-wq&bg_color=0d1117&color=c8f065&line=c8f065&point=ffffff&area=true&area_color=c8f065&hide_border=true)
-
-</div>
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=faraz-wq&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<!-- Snake contribution graph — add this GitHub Action to generate it: -->
-<!-- https://github.com/Platane/snk -->
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/faraz-wq/faraz-wq/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 ## Projects
 
 <div align="center">
 
+[![SDLC-Azure](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=SDLC-Azure&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/SDLC-Azure)
 [![agentic_ai_analyst](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=agentic_ai_analyst&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/agentic_ai_analyst)
+
+</div>
+
+<div align="center">
+
 [![kafka_smart-city](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=kafka_smart-city&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/kafka_smart-city)
-
-</div>
-
-<div align="center">
-
 [![inventory-managment](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=inventory-managment&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/inventory-managment)
-[![document_validation](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=document_validation&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/document_validation)
 
 </div>
 
 <div align="center">
 
-[![video-call-app](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=video-call-app&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/video-call-app)
+[![document_validation](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=document_validation&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/document_validation)
 [![AIInterviewMaster](https://github-readme-stats.vercel.app/api/pin/?username=faraz-wq&repo=AIInterviewMaster&hide_border=true&bg_color=0d1117&title_color=c8f065&text_color=9a9890&icon_color=c8f065)](https://github.com/faraz-wq/AIInterviewMaster)
 
 </div>
